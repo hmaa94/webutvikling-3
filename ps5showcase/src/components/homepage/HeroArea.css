@@ -1,0 +1,50 @@
+#hero-area{
+    color: #000;
+    height: 100vh;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    background-image: url(../../assets/images/ps5tr.gif);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+#hero-area > h1 {
+    font-weight: bold !important;
+    color: #fff;
+    font-size: 64px !important;
+}
+
+#hero-area > p {
+    font-weight: italic !important;
+    color: #fff;
+    font-size: 32px !important;
+}
+
+.btns {
+    background-color: rgba(0,0,0,0.5)!important;
+    border-color: white!important;
+    border-radius: 0!important;
+    margin: 20vh;
+    height: 10vh;
+    width: 30vh;
+    font-size: 2rem!important; 
+    font-weight: bold!important;
+}
+
+.btns:hover {
+    background-color: rgba(255,255,255,0.4)!important;
+    border-radius: 0!important;
+    margin: 20vh;
+    height: 10vh;
+    width: 30vh;
+    font-size: 2rem!important; 
+    font-weight: bold!important;
+    color: black!important;
+}
+
+a:hover {
+     color: black!important;
+}

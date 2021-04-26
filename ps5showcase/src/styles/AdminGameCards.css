@@ -1,0 +1,24 @@
+.adm-game-card {
+    margin-top: 2rem !important;
+    margin-bottom: 3rem !important;
+    border: 5px  !important;
+    border-radius: 0.1%!important;
+    height: 28rem;
+    width: 95%;
+    box-shadow: 8px 8px 1px 1px rgb(7, 7, 7, 0.7);
+}
+
+.adm-game-card-img {
+    border-top-right-radius: 0.1%!important;    
+    border-top-left-radius: 0.1%!important; 
+    object-fit: cover;
+    width: 100%;
+    height: 12rem;
+}
+
+.adm-game-cards-title {
+    font-weight: bolder!important;
+    font-size: 1.3rem!important;  
+    margin-top: 2rem;
+
+}

@@ -1,0 +1,30 @@
+footer {
+    background-color: #00449D;
+    color: white;
+    padding: 30px;
+}
+
+a:link {
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: white;
+  }
+
+  #logo-footer{
+      width: 50px;
+  }
+
+  ul {
+    list-style: none;
+}

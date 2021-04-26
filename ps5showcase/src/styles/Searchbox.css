@@ -1,0 +1,15 @@
+    #searchbox   {
+    margin-left: auto;
+    border-radius: 0!important;
+    margin-top: 1rem;
+    width: 50%!important;
+    height: 60px!important;
+    display: inline-block!important;
+    }
+
+    #game-headline {
+    text-align: center;
+    justify-content: center;
+    margin-top: 1rem;
+    color: black;
+    }

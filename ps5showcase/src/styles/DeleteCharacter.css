@@ -1,0 +1,30 @@
+.dlt-char-card {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+    border: 5px  !important;
+    border-radius: 0.1%!important;
+    height: 40rem;
+    width: 95%;
+    box-shadow: 8px 8px 1px 1px rgb(7, 7, 7, 0.7);
+}
+
+.dlt-char-img {
+    border-top-right-radius: 0.1%!important; ;
+    border-top-left-radius: 0.1%!important; ;
+    object-fit: cover;
+    width: 100%;
+    height: 12rem;
+}
+
+.dlt-char-title {
+    font-weight: bold!important;
+    font-size: 1.2rem!important;  
+    margin-top: 1rem;
+
+}
+#dltconfirm {
+    width: 80%;
+
+    margin-top: 2rem!important;
+    margin: auto;
+}

@@ -1,0 +1,22 @@
+.game-card {
+    margin-top: 2rem !important;
+    margin-bottom: 3rem !important;
+    border: 5px  !important;
+    border-radius: 0.1%!important;
+    height: 28rem;
+    width: 100%;
+    box-shadow: 8px 8px 1px 1px rgb(7, 7, 7, 0.7);
+}
+
+.game-card-img {
+    object-fit: cover;
+    width: 100%;
+    height: 12rem;
+}
+
+.game-cards-title {
+    font-weight: bolder!important;
+    font-size: 1.3rem!important;  
+    margin-top: 2rem;
+
+}
